@@ -1,7 +1,7 @@
 name: super_custom_bars
-description: A starting point for Dart libraries or applications.
+description: A Super Custom Bar library
 version: 1.0.0
-# homepage: https://www.example.com
+# homepage: https://github.com/otocampos/SuperCustomBar
 
 environment:
   sdk: '>=2.15.0 <3.0.0'

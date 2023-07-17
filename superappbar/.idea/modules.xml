@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/superappbar.iml" filepath="$PROJECT_DIR$/.idea/superappbar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/super_custom_bars.iml" filepath="$PROJECT_DIR$/.idea/super_custom_bars.iml" />
     </modules>
   </component>
 </project>
